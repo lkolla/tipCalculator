@@ -1,7 +1,23 @@
-# tipCalculator
+# Pre-work - *tipCalculator*
 
-* [x] Tip Calculator with 3 options
+**tipCalculator** is a tip calculator application for iOS.
 
-Walkthrough Gif:
+Submitted by: **Rajesh Kolla**
 
-![Video Walkthrough](https://github.com/lkolla/tipCalculator/blob/master/tipCalculator.gif)
+Time spent: **9** hours spent in total
+
+## User Stories
+
+The following **required** functionality is complete:
+
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+
+
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/lkolla/tipCalculator/blob/master/tipCalculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
